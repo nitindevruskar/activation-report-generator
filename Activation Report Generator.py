@@ -7,7 +7,7 @@ from datetime import datetime
 import traceback
 
 # ---------------- CONFIG ----------------
-GA_MTD_FILE = "ATMT.xlsx"
+GA_MTD_FILE = "Sample activation file.xlsx"
 GA_MTD_SHEET_UK = "EU"
 GA_MTD_SHEET_SPAIN = "USA"
 GA_MTD_SHEET_GERMANY = "THA"
